@@ -12,6 +12,14 @@ Scripts to prevent Android phones from sleeping while connected via USB (keeps A
 
 ---
 
+## AMD GPU Fixes
+
+Collection of patches for AMD Radeon RX 7700 XT (Navi 32): GPU freezes, overdrive stability, OpenCL, Kdenlive VAAPI, ROCm PyTorch pinning. Gathered from gists ~late 2025.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/amd-gpu-fixes)
+
+---
+
 ## AMDGPU DisplayPort Hotplug Fix
 
 Workaround for AMDGPU DisplayPort monitors not detected at boot (Navi 32, kernel 6.14+).
@@ -52,11 +60,27 @@ Input device remapping configurations and fixes.
 
 ---
 
+## KDE Plasma Fixes
+
+Collection of KDE Plasma Wayland fixes: missing panels, stuck thumbnails, F13 key mapping, deferred boot services, Electron sandbox. Gathered from gists and scripts ~late 2025.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/kde-plasma-fixes)
+
+---
+
 ## KScreen Config
 
 KDE Plasma display/screen configuration files.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/kscreen-config)
+
+---
+
+## Linux System Fixes
+
+Collection of general Linux fixes: Flatpak FUSE bug, DNS flushing, emergency resource protection, Chrome FD leaks, Easy Effects, Eaton UPS/NUT. Gathered from gists and scripts ~late 2025.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/linux-system-fixes)
 
 ---
 
@@ -81,6 +105,14 @@ Systemd timer override configurations.
 Auto-disable laptop touchpad when external mouse is connected (KDE Wayland).
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/touchpad-mouse-toggle)
+
+---
+
+## USB & Input Device Fixes
+
+Collection of USB and input fixes: keyboard reconnection, StreamController detection, ydotoold service, Flatpak USB sandboxing. Gathered from gists and scripts ~late 2025.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/usb-input-fixes)
 
 ---
 
