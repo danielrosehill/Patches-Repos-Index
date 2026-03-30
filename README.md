@@ -28,6 +28,14 @@ Aggregated notes for bug reporting and any fixes identified.
 
 ---
 
+## Handy Wayland Autostart Fix
+
+Fix for Handy speech-to-text app failing to register global hotkeys when auto-started on KDE Plasma Wayland (autostart race condition).
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/handy-wayland-autostart-fix)
+
+---
+
 ## Daniel Workstation Updates
 
 Reference docs for workstation fixes and updates.
